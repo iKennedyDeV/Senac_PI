@@ -29,7 +29,7 @@ body {
     font-size: 24px;
     text-align: center;
     font-family: var(--fonte-jomhuria);
-    background: url(/assents/Lupa.svg) no-repeat;
+    background: url(./assents/Lupa.svg) no-repeat;
     background-position: 1.5em;
 }
 
