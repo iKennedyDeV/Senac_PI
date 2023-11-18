@@ -22,10 +22,8 @@ body{
     
 }
 .container_baixo{
-  display:flex;
-  flex-directions:column;
   text-align: center; 
-  align-items:center;
+  
   
 }
 .container{
