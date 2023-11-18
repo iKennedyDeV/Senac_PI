@@ -22,7 +22,11 @@ body{
     
 }
 .container_baixo{
-  text-align: center;    
+  display:flex;
+  flex-directions:column;
+  text-align: center; 
+  align-items:center;
+  
 }
 .container{
     display: flex;
