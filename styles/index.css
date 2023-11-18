@@ -1,11 +1,11 @@
 
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
 @import url("https://fonts.googleapis.com/css2?family=Jomhuria&family=Karla&display=swap");
-@import url("/styles/reset.css");
-@import url("/styles/inicial.css");
-@import url("/styles/busca.css");
-@import url("/styles/pessoal.css");
-@import url("/styles/pedidos.css");
+@import url(styles/reset.css);
+@import url(styles/inicial.css);
+@import url(styles/busca.css);
+@import url(styles/pessoal.css);
+@import url(styles/pedidos.css);
 
 
 
