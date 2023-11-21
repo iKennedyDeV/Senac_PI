@@ -4,6 +4,7 @@
     align-items:center ;
     margin-top: 1em;
 }
+
 .pedido_img{
     width: 50% ;
     height: 50%;
@@ -33,7 +34,7 @@
     align-items: center;
     flex-direction: column;
     background-color: var(--cinza);
-    padding:40% 0;
+    padding: 10em 0 10em 0;
     border-radius: 5px;
     box-shadow: 0 4px 4px 0;
 }

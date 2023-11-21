@@ -2,6 +2,7 @@
 body {
     background-color: var(--branco);
     padding: 1em;
+    position: relative;
     
 }
 
@@ -122,15 +123,13 @@ body {
 }
 
 .sino {
-    width: 65px;
+    width: 50px;
     border-radius: 20px;
 
 }
 
-.notificação {
-    margin: 1em 0;
-    position: absolute;
-    right: 0;
+.notificação { 
+    margin: 5em 0vw 0 79vw;
     background-color: var(--verde-claro);
     border-radius: 60px;
 }
@@ -138,13 +137,11 @@ body {
 .navegador {
     font-family: var(--fonte-jomhuria);
     color: var(--branco);
-    position: absolute;
-    left: 5px;
-    bottom: 80px;
-    width: 45vh;
-    height: 90px;
-    line-height: 100px;
     display: flex;
+    padding: 2em 0;
+    width: 92%;
+    position:fixed;
+    bottom: 1em;
     justify-content: space-evenly;
     background-color: var(--cinza);
     border: 1px solid var(--preto);
